@@ -1,0 +1,26 @@
+{
+  "name": "html-games",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvthang56th2/html-games.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvthang56th2/html-games/issues"
+  },
+  "homepage": "https://github.com/cvthang56th2/html-games#readme",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "http": "0.0.0"
+  }
+}
